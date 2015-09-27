@@ -15,9 +15,9 @@
 
 `activity` - contains names of activity
 
-`mean_v` - features that contains  measurements on the mean  for some measurement. 
+`mean_v` - numeric vector of features that contains  measurements on the mean  for some measurement. 
 
-`std_v`  -  features that contains  measurements on the standart deviation  for some measurement
+`std_v`  - numeric vector of  features that contains  measurements on the standart deviation  for some measurement
 
 `features` - contains names of features that means only measurements on the mean  or standart deviation for some measurement. 
 
