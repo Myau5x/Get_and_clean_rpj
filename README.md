@@ -14,7 +14,7 @@ Next I select columns from `x_train` and `x_test` according numbers from previou
 Also I bind `y_train` and `y_test` and add names of activity to new data frame `y`.
 And I bind `subj_train` and `subj_test` to `subj`.
 
-Than I bind `subj`, `y[2]` (only activity names) and `x` to `new_frame`. And add columns names "subject", "activity" and features name.
+Then I bind `subj`, `y[2]` (only activity names) and `x` to `new_frame`. And add columns names "subject", "activity" and features name.
 
 ### Summarize
 
