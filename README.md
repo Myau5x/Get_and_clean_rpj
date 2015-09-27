@@ -18,4 +18,4 @@ Than I bind `subj`, `y[2]` (only activity names) and `x` to `new_frame`. And add
 
 ### Summarize
 
-To create final tidy dataset `tidy` I grouped `new_frame` by subject and activity and summarize using function `summarise_each(funs(mean))` that applies mean to each column (by groups).
+To create final tidy dataset `tidy` I grouped `new_frame` by subject and activity and summarize using function `summarise_each(funs(mean))` that applies mean() to each column (by groups).
