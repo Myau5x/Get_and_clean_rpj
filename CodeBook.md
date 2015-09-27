@@ -19,6 +19,8 @@
 
 `std_v`  -  features that contains  measurements on the standart deviation  for some measurement
 
+`features` - contains names of features that means only measurements on the mean  or standart deviation for some measurement. 
+
 `x` - data set is merged from `x_test` and `x_train`
 
 `y` -  data set is merged from `y_test` and `y_train`
